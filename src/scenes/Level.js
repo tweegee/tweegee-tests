@@ -17,7 +17,7 @@ class Level extends Phaser.Scene {
 	editorCreate() {
 
 		// textAvatars
-		const textAvatars = this.add.text(0, 0, "", {});
+		const textAvatars = this.add.text(3, 580, "", {});
 		textAvatars.text = "Avatars: ";
 		textAvatars.setStyle({ "fontFamily": "Arial" });
 
