@@ -1,0 +1,2372 @@
+{
+	"textures": [
+		{
+			"image": "9001.3.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 226,
+				"h": 1105
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "pelvis-back-features0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 254,
+						"h": 298
+					},
+					"spriteSourceSize": {
+						"x": 82,
+						"y": 233,
+						"w": 87,
+						"h": 24
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 87,
+						"h": 24
+					}
+				},
+				{
+					"filename": "pelvis-back-features0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 254,
+						"h": 302
+					},
+					"spriteSourceSize": {
+						"x": 81,
+						"y": 231,
+						"w": 87,
+						"h": 24
+					},
+					"frame": {
+						"x": 90,
+						"y": 1,
+						"w": 87,
+						"h": 24
+					}
+				},
+				{
+					"filename": "left-leg-features0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 252,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 82,
+						"y": 211,
+						"w": 46,
+						"h": 60
+					},
+					"frame": {
+						"x": 179,
+						"y": 1,
+						"w": 46,
+						"h": 60
+					}
+				},
+				{
+					"filename": "pelvis-back-features0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 298
+					},
+					"spriteSourceSize": {
+						"x": 81,
+						"y": 232,
+						"w": 87,
+						"h": 24
+					},
+					"frame": {
+						"x": 1,
+						"y": 27,
+						"w": 87,
+						"h": 24
+					}
+				},
+				{
+					"filename": "pelvis-back-features0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 252,
+						"h": 290
+					},
+					"spriteSourceSize": {
+						"x": 83,
+						"y": 233,
+						"w": 87,
+						"h": 24
+					},
+					"frame": {
+						"x": 90,
+						"y": 27,
+						"w": 87,
+						"h": 24
+					}
+				},
+				{
+					"filename": "pelvis-back-features0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 296
+					},
+					"spriteSourceSize": {
+						"x": 85,
+						"y": 234,
+						"w": 87,
+						"h": 24
+					},
+					"frame": {
+						"x": 1,
+						"y": 53,
+						"w": 87,
+						"h": 24
+					}
+				},
+				{
+					"filename": "pelvis-back-features0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 295
+					},
+					"spriteSourceSize": {
+						"x": 84,
+						"y": 231,
+						"w": 87,
+						"h": 24
+					},
+					"frame": {
+						"x": 90,
+						"y": 53,
+						"w": 87,
+						"h": 24
+					}
+				},
+				{
+					"filename": "right-leg-fill0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 290
+					},
+					"spriteSourceSize": {
+						"x": 123,
+						"y": 211,
+						"w": 46,
+						"h": 54
+					},
+					"frame": {
+						"x": 179,
+						"y": 63,
+						"w": 46,
+						"h": 54
+					}
+				},
+				{
+					"filename": "pelvis-back-features0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 295
+					},
+					"spriteSourceSize": {
+						"x": 83,
+						"y": 228,
+						"w": 87,
+						"h": 24
+					},
+					"frame": {
+						"x": 1,
+						"y": 79,
+						"w": 87,
+						"h": 24
+					}
+				},
+				{
+					"filename": "pelvis-back-features0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 252,
+						"h": 297
+					},
+					"spriteSourceSize": {
+						"x": 83,
+						"y": 227,
+						"w": 87,
+						"h": 24
+					},
+					"frame": {
+						"x": 90,
+						"y": 79,
+						"w": 87,
+						"h": 24
+					}
+				},
+				{
+					"filename": "pelvis-back-features0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 252,
+						"h": 292
+					},
+					"spriteSourceSize": {
+						"x": 83,
+						"y": 228,
+						"w": 87,
+						"h": 24
+					},
+					"frame": {
+						"x": 1,
+						"y": 105,
+						"w": 87,
+						"h": 24
+					}
+				},
+				{
+					"filename": "pelvis-back-features0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 290
+					},
+					"spriteSourceSize": {
+						"x": 83,
+						"y": 230,
+						"w": 87,
+						"h": 24
+					},
+					"frame": {
+						"x": 90,
+						"y": 105,
+						"w": 87,
+						"h": 24
+					}
+				},
+				{
+					"filename": "left-leg-features0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 296
+					},
+					"spriteSourceSize": {
+						"x": 91,
+						"y": 211,
+						"w": 45,
+						"h": 62
+					},
+					"frame": {
+						"x": 179,
+						"y": 119,
+						"w": 45,
+						"h": 62
+					}
+				},
+				{
+					"filename": "pelvis-back-features0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 290
+					},
+					"spriteSourceSize": {
+						"x": 83,
+						"y": 233,
+						"w": 87,
+						"h": 24
+					},
+					"frame": {
+						"x": 1,
+						"y": 131,
+						"w": 87,
+						"h": 24
+					}
+				},
+				{
+					"filename": "pelvis-back-features0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 254,
+						"h": 297
+					},
+					"spriteSourceSize": {
+						"x": 83,
+						"y": 234,
+						"w": 87,
+						"h": 24
+					},
+					"frame": {
+						"x": 90,
+						"y": 131,
+						"w": 87,
+						"h": 24
+					}
+				},
+				{
+					"filename": "pelvis-features0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 254,
+						"h": 298
+					},
+					"spriteSourceSize": {
+						"x": 82,
+						"y": 233,
+						"w": 87,
+						"h": 24
+					},
+					"frame": {
+						"x": 1,
+						"y": 157,
+						"w": 87,
+						"h": 24
+					}
+				},
+				{
+					"filename": "pelvis-features0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 254,
+						"h": 302
+					},
+					"spriteSourceSize": {
+						"x": 81,
+						"y": 231,
+						"w": 87,
+						"h": 24
+					},
+					"frame": {
+						"x": 90,
+						"y": 157,
+						"w": 87,
+						"h": 24
+					}
+				},
+				{
+					"filename": "pelvis-features0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 298
+					},
+					"spriteSourceSize": {
+						"x": 81,
+						"y": 232,
+						"w": 87,
+						"h": 24
+					},
+					"frame": {
+						"x": 1,
+						"y": 183,
+						"w": 87,
+						"h": 24
+					}
+				},
+				{
+					"filename": "pelvis-features0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 252,
+						"h": 290
+					},
+					"spriteSourceSize": {
+						"x": 83,
+						"y": 233,
+						"w": 87,
+						"h": 24
+					},
+					"frame": {
+						"x": 90,
+						"y": 183,
+						"w": 87,
+						"h": 24
+					}
+				},
+				{
+					"filename": "left-leg-features0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 252,
+						"h": 292
+					},
+					"spriteSourceSize": {
+						"x": 77,
+						"y": 202,
+						"w": 45,
+						"h": 60
+					},
+					"frame": {
+						"x": 179,
+						"y": 183,
+						"w": 45,
+						"h": 60
+					}
+				},
+				{
+					"filename": "pelvis-features0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 296
+					},
+					"spriteSourceSize": {
+						"x": 85,
+						"y": 234,
+						"w": 87,
+						"h": 24
+					},
+					"frame": {
+						"x": 1,
+						"y": 209,
+						"w": 87,
+						"h": 24
+					}
+				},
+				{
+					"filename": "pelvis-features0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 295
+					},
+					"spriteSourceSize": {
+						"x": 84,
+						"y": 231,
+						"w": 87,
+						"h": 24
+					},
+					"frame": {
+						"x": 90,
+						"y": 209,
+						"w": 87,
+						"h": 24
+					}
+				},
+				{
+					"filename": "pelvis-features0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 295
+					},
+					"spriteSourceSize": {
+						"x": 83,
+						"y": 228,
+						"w": 87,
+						"h": 24
+					},
+					"frame": {
+						"x": 1,
+						"y": 235,
+						"w": 87,
+						"h": 24
+					}
+				},
+				{
+					"filename": "pelvis-features0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 252,
+						"h": 297
+					},
+					"spriteSourceSize": {
+						"x": 83,
+						"y": 227,
+						"w": 87,
+						"h": 24
+					},
+					"frame": {
+						"x": 90,
+						"y": 235,
+						"w": 87,
+						"h": 24
+					}
+				},
+				{
+					"filename": "left-leg-features0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 290
+					},
+					"spriteSourceSize": {
+						"x": 76,
+						"y": 207,
+						"w": 45,
+						"h": 60
+					},
+					"frame": {
+						"x": 179,
+						"y": 245,
+						"w": 45,
+						"h": 60
+					}
+				},
+				{
+					"filename": "pelvis-features0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 252,
+						"h": 292
+					},
+					"spriteSourceSize": {
+						"x": 83,
+						"y": 228,
+						"w": 87,
+						"h": 24
+					},
+					"frame": {
+						"x": 1,
+						"y": 261,
+						"w": 87,
+						"h": 24
+					}
+				},
+				{
+					"filename": "pelvis-features0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 290
+					},
+					"spriteSourceSize": {
+						"x": 83,
+						"y": 230,
+						"w": 87,
+						"h": 24
+					},
+					"frame": {
+						"x": 90,
+						"y": 261,
+						"w": 87,
+						"h": 24
+					}
+				},
+				{
+					"filename": "pelvis-features0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 290
+					},
+					"spriteSourceSize": {
+						"x": 83,
+						"y": 233,
+						"w": 87,
+						"h": 24
+					},
+					"frame": {
+						"x": 1,
+						"y": 287,
+						"w": 87,
+						"h": 24
+					}
+				},
+				{
+					"filename": "pelvis-features0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 254,
+						"h": 297
+					},
+					"spriteSourceSize": {
+						"x": 83,
+						"y": 234,
+						"w": 87,
+						"h": 24
+					},
+					"frame": {
+						"x": 90,
+						"y": 287,
+						"w": 87,
+						"h": 24
+					}
+				},
+				{
+					"filename": "left-leg-features0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 254,
+						"h": 297
+					},
+					"spriteSourceSize": {
+						"x": 77,
+						"y": 213,
+						"w": 45,
+						"h": 60
+					},
+					"frame": {
+						"x": 179,
+						"y": 307,
+						"w": 45,
+						"h": 60
+					}
+				},
+				{
+					"filename": "pelvis-back-features0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 299
+					},
+					"spriteSourceSize": {
+						"x": 81,
+						"y": 232,
+						"w": 87,
+						"h": 23
+					},
+					"frame": {
+						"x": 1,
+						"y": 313,
+						"w": 87,
+						"h": 23
+					}
+				},
+				{
+					"filename": "pelvis-back-features0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 252,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 82,
+						"y": 233,
+						"w": 87,
+						"h": 23
+					},
+					"frame": {
+						"x": 90,
+						"y": 313,
+						"w": 87,
+						"h": 23
+					}
+				},
+				{
+					"filename": "pelvis-features0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 299
+					},
+					"spriteSourceSize": {
+						"x": 81,
+						"y": 232,
+						"w": 87,
+						"h": 23
+					},
+					"frame": {
+						"x": 1,
+						"y": 338,
+						"w": 87,
+						"h": 23
+					}
+				},
+				{
+					"filename": "pelvis-features0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 252,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 82,
+						"y": 233,
+						"w": 87,
+						"h": 23
+					},
+					"frame": {
+						"x": 90,
+						"y": 338,
+						"w": 87,
+						"h": 23
+					}
+				},
+				{
+					"filename": "pelvis-back-fill0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 252,
+						"h": 297
+					},
+					"spriteSourceSize": {
+						"x": 84,
+						"y": 227,
+						"w": 86,
+						"h": 24
+					},
+					"frame": {
+						"x": 1,
+						"y": 363,
+						"w": 86,
+						"h": 24
+					}
+				},
+				{
+					"filename": "pelvis-fill0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 252,
+						"h": 297
+					},
+					"spriteSourceSize": {
+						"x": 84,
+						"y": 227,
+						"w": 86,
+						"h": 24
+					},
+					"frame": {
+						"x": 1,
+						"y": 363,
+						"w": 86,
+						"h": 24
+					}
+				},
+				{
+					"filename": "pelvis-back-fill0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 254,
+						"h": 298
+					},
+					"spriteSourceSize": {
+						"x": 83,
+						"y": 233,
+						"w": 86,
+						"h": 23
+					},
+					"frame": {
+						"x": 89,
+						"y": 363,
+						"w": 86,
+						"h": 23
+					}
+				},
+				{
+					"filename": "pelvis-fill0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 254,
+						"h": 298
+					},
+					"spriteSourceSize": {
+						"x": 83,
+						"y": 233,
+						"w": 86,
+						"h": 23
+					},
+					"frame": {
+						"x": 89,
+						"y": 363,
+						"w": 86,
+						"h": 23
+					}
+				},
+				{
+					"filename": "right-leg-features0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 290
+					},
+					"spriteSourceSize": {
+						"x": 122,
+						"y": 210,
+						"w": 48,
+						"h": 55
+					},
+					"frame": {
+						"x": 177,
+						"y": 369,
+						"w": 48,
+						"h": 55
+					}
+				},
+				{
+					"filename": "pelvis-back-fill0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 299
+					},
+					"spriteSourceSize": {
+						"x": 82,
+						"y": 232,
+						"w": 86,
+						"h": 23
+					},
+					"frame": {
+						"x": 89,
+						"y": 388,
+						"w": 86,
+						"h": 23
+					}
+				},
+				{
+					"filename": "pelvis-fill0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 299
+					},
+					"spriteSourceSize": {
+						"x": 82,
+						"y": 232,
+						"w": 86,
+						"h": 23
+					},
+					"frame": {
+						"x": 89,
+						"y": 388,
+						"w": 86,
+						"h": 23
+					}
+				},
+				{
+					"filename": "pelvis-back-fill0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 298
+					},
+					"spriteSourceSize": {
+						"x": 82,
+						"y": 232,
+						"w": 86,
+						"h": 23
+					},
+					"frame": {
+						"x": 1,
+						"y": 389,
+						"w": 86,
+						"h": 23
+					}
+				},
+				{
+					"filename": "pelvis-fill0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 298
+					},
+					"spriteSourceSize": {
+						"x": 82,
+						"y": 232,
+						"w": 86,
+						"h": 23
+					},
+					"frame": {
+						"x": 1,
+						"y": 389,
+						"w": 86,
+						"h": 23
+					}
+				},
+				{
+					"filename": "pelvis-back-fill0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 252,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 82,
+						"y": 233,
+						"w": 86,
+						"h": 23
+					},
+					"frame": {
+						"x": 89,
+						"y": 413,
+						"w": 86,
+						"h": 23
+					}
+				},
+				{
+					"filename": "pelvis-fill0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 252,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 82,
+						"y": 233,
+						"w": 86,
+						"h": 23
+					},
+					"frame": {
+						"x": 89,
+						"y": 413,
+						"w": 86,
+						"h": 23
+					}
+				},
+				{
+					"filename": "pelvis-back-fill0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 252,
+						"h": 290
+					},
+					"spriteSourceSize": {
+						"x": 84,
+						"y": 234,
+						"w": 86,
+						"h": 23
+					},
+					"frame": {
+						"x": 1,
+						"y": 414,
+						"w": 86,
+						"h": 23
+					}
+				},
+				{
+					"filename": "pelvis-fill0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 252,
+						"h": 290
+					},
+					"spriteSourceSize": {
+						"x": 84,
+						"y": 234,
+						"w": 86,
+						"h": 23
+					},
+					"frame": {
+						"x": 1,
+						"y": 414,
+						"w": 86,
+						"h": 23
+					}
+				},
+				{
+					"filename": "left-leg-features0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 252,
+						"h": 290
+					},
+					"spriteSourceSize": {
+						"x": 85,
+						"y": 209,
+						"w": 47,
+						"h": 60
+					},
+					"frame": {
+						"x": 177,
+						"y": 426,
+						"w": 47,
+						"h": 60
+					}
+				},
+				{
+					"filename": "pelvis-back-fill0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 296
+					},
+					"spriteSourceSize": {
+						"x": 85,
+						"y": 234,
+						"w": 86,
+						"h": 23
+					},
+					"frame": {
+						"x": 89,
+						"y": 438,
+						"w": 86,
+						"h": 23
+					}
+				},
+				{
+					"filename": "pelvis-fill0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 296
+					},
+					"spriteSourceSize": {
+						"x": 85,
+						"y": 234,
+						"w": 86,
+						"h": 23
+					},
+					"frame": {
+						"x": 89,
+						"y": 438,
+						"w": 86,
+						"h": 23
+					}
+				},
+				{
+					"filename": "pelvis-back-fill0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 295
+					},
+					"spriteSourceSize": {
+						"x": 84,
+						"y": 229,
+						"w": 86,
+						"h": 23
+					},
+					"frame": {
+						"x": 1,
+						"y": 439,
+						"w": 86,
+						"h": 23
+					}
+				},
+				{
+					"filename": "pelvis-fill0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 295
+					},
+					"spriteSourceSize": {
+						"x": 84,
+						"y": 229,
+						"w": 86,
+						"h": 23
+					},
+					"frame": {
+						"x": 1,
+						"y": 439,
+						"w": 86,
+						"h": 23
+					}
+				},
+				{
+					"filename": "pelvis-back-fill0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 252,
+						"h": 292
+					},
+					"spriteSourceSize": {
+						"x": 83,
+						"y": 228,
+						"w": 86,
+						"h": 23
+					},
+					"frame": {
+						"x": 89,
+						"y": 463,
+						"w": 86,
+						"h": 23
+					}
+				},
+				{
+					"filename": "pelvis-fill0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 252,
+						"h": 292
+					},
+					"spriteSourceSize": {
+						"x": 83,
+						"y": 228,
+						"w": 86,
+						"h": 23
+					},
+					"frame": {
+						"x": 89,
+						"y": 463,
+						"w": 86,
+						"h": 23
+					}
+				},
+				{
+					"filename": "pelvis-back-fill0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 290
+					},
+					"spriteSourceSize": {
+						"x": 83,
+						"y": 230,
+						"w": 86,
+						"h": 23
+					},
+					"frame": {
+						"x": 1,
+						"y": 464,
+						"w": 86,
+						"h": 23
+					}
+				},
+				{
+					"filename": "pelvis-fill0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 290
+					},
+					"spriteSourceSize": {
+						"x": 83,
+						"y": 230,
+						"w": 86,
+						"h": 23
+					},
+					"frame": {
+						"x": 1,
+						"y": 464,
+						"w": 86,
+						"h": 23
+					}
+				},
+				{
+					"filename": "pelvis-back-fill0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 290
+					},
+					"spriteSourceSize": {
+						"x": 83,
+						"y": 234,
+						"w": 86,
+						"h": 23
+					},
+					"frame": {
+						"x": 89,
+						"y": 488,
+						"w": 86,
+						"h": 23
+					}
+				},
+				{
+					"filename": "pelvis-fill0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 290
+					},
+					"spriteSourceSize": {
+						"x": 83,
+						"y": 234,
+						"w": 86,
+						"h": 23
+					},
+					"frame": {
+						"x": 89,
+						"y": 488,
+						"w": 86,
+						"h": 23
+					}
+				},
+				{
+					"filename": "pelvis-back-fill0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 254,
+						"h": 297
+					},
+					"spriteSourceSize": {
+						"x": 83,
+						"y": 234,
+						"w": 86,
+						"h": 23
+					},
+					"frame": {
+						"x": 1,
+						"y": 489,
+						"w": 86,
+						"h": 23
+					}
+				},
+				{
+					"filename": "pelvis-fill0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 254,
+						"h": 297
+					},
+					"spriteSourceSize": {
+						"x": 83,
+						"y": 234,
+						"w": 86,
+						"h": 23
+					},
+					"frame": {
+						"x": 1,
+						"y": 489,
+						"w": 86,
+						"h": 23
+					}
+				},
+				{
+					"filename": "left-leg-fill0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 252,
+						"h": 290
+					},
+					"spriteSourceSize": {
+						"x": 85,
+						"y": 209,
+						"w": 47,
+						"h": 60
+					},
+					"frame": {
+						"x": 177,
+						"y": 488,
+						"w": 47,
+						"h": 60
+					}
+				},
+				{
+					"filename": "pelvis-back-fill0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 254,
+						"h": 302
+					},
+					"spriteSourceSize": {
+						"x": 81,
+						"y": 232,
+						"w": 86,
+						"h": 22
+					},
+					"frame": {
+						"x": 89,
+						"y": 513,
+						"w": 86,
+						"h": 22
+					}
+				},
+				{
+					"filename": "pelvis-fill0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 254,
+						"h": 302
+					},
+					"spriteSourceSize": {
+						"x": 81,
+						"y": 232,
+						"w": 86,
+						"h": 22
+					},
+					"frame": {
+						"x": 89,
+						"y": 513,
+						"w": 86,
+						"h": 22
+					}
+				},
+				{
+					"filename": "pelvis-back-fill0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 295
+					},
+					"spriteSourceSize": {
+						"x": 84,
+						"y": 232,
+						"w": 86,
+						"h": 22
+					},
+					"frame": {
+						"x": 1,
+						"y": 514,
+						"w": 86,
+						"h": 22
+					}
+				},
+				{
+					"filename": "pelvis-fill0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 295
+					},
+					"spriteSourceSize": {
+						"x": 84,
+						"y": 232,
+						"w": 86,
+						"h": 22
+					},
+					"frame": {
+						"x": 1,
+						"y": 514,
+						"w": 86,
+						"h": 22
+					}
+				},
+				{
+					"filename": "left-leg-fill0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 252,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 83,
+						"y": 211,
+						"w": 45,
+						"h": 60
+					},
+					"frame": {
+						"x": 89,
+						"y": 537,
+						"w": 45,
+						"h": 60
+					}
+				},
+				{
+					"filename": "right-leg-features0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 252,
+						"h": 297
+					},
+					"spriteSourceSize": {
+						"x": 124,
+						"y": 213,
+						"w": 39,
+						"h": 55
+					},
+					"frame": {
+						"x": 136,
+						"y": 537,
+						"w": 39,
+						"h": 55
+					}
+				},
+				{
+					"filename": "left-leg-features0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 295
+					},
+					"spriteSourceSize": {
+						"x": 88,
+						"y": 206,
+						"w": 44,
+						"h": 62
+					},
+					"frame": {
+						"x": 177,
+						"y": 550,
+						"w": 44,
+						"h": 62
+					}
+				},
+				{
+					"filename": "right-leg-fill0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 252,
+						"h": 290
+					},
+					"spriteSourceSize": {
+						"x": 126,
+						"y": 209,
+						"w": 39,
+						"h": 55
+					},
+					"frame": {
+						"x": 136,
+						"y": 594,
+						"w": 39,
+						"h": 55
+					}
+				},
+				{
+					"filename": "left-leg-features0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 295
+					},
+					"spriteSourceSize": {
+						"x": 85,
+						"y": 203,
+						"w": 44,
+						"h": 61
+					},
+					"frame": {
+						"x": 177,
+						"y": 614,
+						"w": 44,
+						"h": 61
+					}
+				},
+				{
+					"filename": "left-leg-features0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 254,
+						"h": 298
+					},
+					"spriteSourceSize": {
+						"x": 78,
+						"y": 213,
+						"w": 44,
+						"h": 60
+					},
+					"frame": {
+						"x": 1,
+						"y": 538,
+						"w": 44,
+						"h": 60
+					}
+				},
+				{
+					"filename": "right-leg-features0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 252,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 125,
+						"y": 208,
+						"w": 40,
+						"h": 55
+					},
+					"frame": {
+						"x": 47,
+						"y": 538,
+						"w": 40,
+						"h": 55
+					}
+				},
+				{
+					"filename": "right-leg-features0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 296
+					},
+					"spriteSourceSize": {
+						"x": 125,
+						"y": 213,
+						"w": 40,
+						"h": 55
+					},
+					"frame": {
+						"x": 47,
+						"y": 595,
+						"w": 40,
+						"h": 55
+					}
+				},
+				{
+					"filename": "left-leg-features0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 252,
+						"h": 297
+					},
+					"spriteSourceSize": {
+						"x": 79,
+						"y": 201,
+						"w": 44,
+						"h": 60
+					},
+					"frame": {
+						"x": 1,
+						"y": 600,
+						"w": 44,
+						"h": 60
+					}
+				},
+				{
+					"filename": "left-leg-features0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 290
+					},
+					"spriteSourceSize": {
+						"x": 77,
+						"y": 204,
+						"w": 44,
+						"h": 60
+					},
+					"frame": {
+						"x": 89,
+						"y": 599,
+						"w": 44,
+						"h": 60
+					}
+				},
+				{
+					"filename": "right-leg-features0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 295
+					},
+					"spriteSourceSize": {
+						"x": 121,
+						"y": 212,
+						"w": 40,
+						"h": 55
+					},
+					"frame": {
+						"x": 47,
+						"y": 652,
+						"w": 40,
+						"h": 55
+					}
+				},
+				{
+					"filename": "left-leg-fill0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 252,
+						"h": 297
+					},
+					"spriteSourceSize": {
+						"x": 79,
+						"y": 201,
+						"w": 44,
+						"h": 59
+					},
+					"frame": {
+						"x": 1,
+						"y": 662,
+						"w": 44,
+						"h": 59
+					}
+				},
+				{
+					"filename": "right-leg-fill0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 296
+					},
+					"spriteSourceSize": {
+						"x": 125,
+						"y": 213,
+						"w": 40,
+						"h": 55
+					},
+					"frame": {
+						"x": 135,
+						"y": 651,
+						"w": 40,
+						"h": 55
+					}
+				},
+				{
+					"filename": "left-leg-fill0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 290
+					},
+					"spriteSourceSize": {
+						"x": 77,
+						"y": 205,
+						"w": 44,
+						"h": 58
+					},
+					"frame": {
+						"x": 89,
+						"y": 661,
+						"w": 44,
+						"h": 58
+					}
+				},
+				{
+					"filename": "right-leg-features0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 298
+					},
+					"spriteSourceSize": {
+						"x": 124,
+						"y": 207,
+						"w": 40,
+						"h": 54
+					},
+					"frame": {
+						"x": 47,
+						"y": 709,
+						"w": 40,
+						"h": 54
+					}
+				},
+				{
+					"filename": "right-leg-features0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 290
+					},
+					"spriteSourceSize": {
+						"x": 124,
+						"y": 210,
+						"w": 44,
+						"h": 55
+					},
+					"frame": {
+						"x": 1,
+						"y": 723,
+						"w": 44,
+						"h": 55
+					}
+				},
+				{
+					"filename": "left-leg-features0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 254,
+						"h": 302
+					},
+					"spriteSourceSize": {
+						"x": 79,
+						"y": 214,
+						"w": 43,
+						"h": 61
+					},
+					"frame": {
+						"x": 177,
+						"y": 677,
+						"w": 43,
+						"h": 61
+					}
+				},
+				{
+					"filename": "right-leg-fill0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 252,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 125,
+						"y": 208,
+						"w": 40,
+						"h": 54
+					},
+					"frame": {
+						"x": 135,
+						"y": 708,
+						"w": 40,
+						"h": 54
+					}
+				},
+				{
+					"filename": "left-leg-features0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 298
+					},
+					"spriteSourceSize": {
+						"x": 81,
+						"y": 212,
+						"w": 43,
+						"h": 61
+					},
+					"frame": {
+						"x": 89,
+						"y": 721,
+						"w": 43,
+						"h": 61
+					}
+				},
+				{
+					"filename": "right-leg-fill0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 254,
+						"h": 302
+					},
+					"spriteSourceSize": {
+						"x": 124,
+						"y": 207,
+						"w": 40,
+						"h": 53
+					},
+					"frame": {
+						"x": 47,
+						"y": 765,
+						"w": 40,
+						"h": 53
+					}
+				},
+				{
+					"filename": "left-leg-fill0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 296
+					},
+					"spriteSourceSize": {
+						"x": 92,
+						"y": 211,
+						"w": 43,
+						"h": 61
+					},
+					"frame": {
+						"x": 1,
+						"y": 780,
+						"w": 43,
+						"h": 61
+					}
+				},
+				{
+					"filename": "left-leg-fill0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 295
+					},
+					"spriteSourceSize": {
+						"x": 85,
+						"y": 203,
+						"w": 43,
+						"h": 61
+					},
+					"frame": {
+						"x": 177,
+						"y": 740,
+						"w": 43,
+						"h": 61
+					}
+				},
+				{
+					"filename": "left-leg-fill0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 254,
+						"h": 302
+					},
+					"spriteSourceSize": {
+						"x": 80,
+						"y": 215,
+						"w": 41,
+						"h": 59
+					},
+					"frame": {
+						"x": 134,
+						"y": 764,
+						"w": 41,
+						"h": 59
+					}
+				},
+				{
+					"filename": "left-leg-fill0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 295
+					},
+					"spriteSourceSize": {
+						"x": 88,
+						"y": 207,
+						"w": 43,
+						"h": 60
+					},
+					"frame": {
+						"x": 89,
+						"y": 784,
+						"w": 43,
+						"h": 60
+					}
+				},
+				{
+					"filename": "right-leg-features0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 252,
+						"h": 290
+					},
+					"spriteSourceSize": {
+						"x": 125,
+						"y": 208,
+						"w": 41,
+						"h": 56
+					},
+					"frame": {
+						"x": 46,
+						"y": 820,
+						"w": 41,
+						"h": 56
+					}
+				},
+				{
+					"filename": "left-leg-fill0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 254,
+						"h": 298
+					},
+					"spriteSourceSize": {
+						"x": 79,
+						"y": 214,
+						"w": 43,
+						"h": 59
+					},
+					"frame": {
+						"x": 1,
+						"y": 843,
+						"w": 43,
+						"h": 59
+					}
+				},
+				{
+					"filename": "left-leg-fill0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 298
+					},
+					"spriteSourceSize": {
+						"x": 81,
+						"y": 213,
+						"w": 43,
+						"h": 59
+					},
+					"frame": {
+						"x": 177,
+						"y": 803,
+						"w": 43,
+						"h": 59
+					}
+				},
+				{
+					"filename": "right-leg-features0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 252,
+						"h": 292
+					},
+					"spriteSourceSize": {
+						"x": 124,
+						"y": 211,
+						"w": 41,
+						"h": 55
+					},
+					"frame": {
+						"x": 134,
+						"y": 825,
+						"w": 41,
+						"h": 55
+					}
+				},
+				{
+					"filename": "left-leg-fill0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 290
+					},
+					"spriteSourceSize": {
+						"x": 77,
+						"y": 208,
+						"w": 43,
+						"h": 59
+					},
+					"frame": {
+						"x": 89,
+						"y": 846,
+						"w": 43,
+						"h": 59
+					}
+				},
+				{
+					"filename": "right-leg-features0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 254,
+						"h": 298
+					},
+					"spriteSourceSize": {
+						"x": 131,
+						"y": 210,
+						"w": 41,
+						"h": 54
+					},
+					"frame": {
+						"x": 46,
+						"y": 878,
+						"w": 41,
+						"h": 54
+					}
+				},
+				{
+					"filename": "left-leg-fill0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 254,
+						"h": 297
+					},
+					"spriteSourceSize": {
+						"x": 78,
+						"y": 214,
+						"w": 43,
+						"h": 59
+					},
+					"frame": {
+						"x": 1,
+						"y": 904,
+						"w": 43,
+						"h": 59
+					}
+				},
+				{
+					"filename": "left-leg-fill0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 252,
+						"h": 292
+					},
+					"spriteSourceSize": {
+						"x": 78,
+						"y": 203,
+						"w": 43,
+						"h": 58
+					},
+					"frame": {
+						"x": 177,
+						"y": 864,
+						"w": 43,
+						"h": 58
+					}
+				},
+				{
+					"filename": "right-leg-features0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 299
+					},
+					"spriteSourceSize": {
+						"x": 125,
+						"y": 206,
+						"w": 41,
+						"h": 54
+					},
+					"frame": {
+						"x": 134,
+						"y": 882,
+						"w": 41,
+						"h": 54
+					}
+				},
+				{
+					"filename": "right-leg-fill0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 290
+					},
+					"spriteSourceSize": {
+						"x": 124,
+						"y": 210,
+						"w": 43,
+						"h": 54
+					},
+					"frame": {
+						"x": 89,
+						"y": 907,
+						"w": 43,
+						"h": 54
+					}
+				},
+				{
+					"filename": "right-leg-features0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 254,
+						"h": 302
+					},
+					"spriteSourceSize": {
+						"x": 123,
+						"y": 207,
+						"w": 41,
+						"h": 54
+					},
+					"frame": {
+						"x": 46,
+						"y": 934,
+						"w": 41,
+						"h": 54
+					}
+				},
+				{
+					"filename": "left-leg-features0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 299
+					},
+					"spriteSourceSize": {
+						"x": 79,
+						"y": 213,
+						"w": 42,
+						"h": 61
+					},
+					"frame": {
+						"x": 1,
+						"y": 965,
+						"w": 42,
+						"h": 61
+					}
+				},
+				{
+					"filename": "left-leg-fill0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 299
+					},
+					"spriteSourceSize": {
+						"x": 79,
+						"y": 214,
+						"w": 42,
+						"h": 59
+					},
+					"frame": {
+						"x": 177,
+						"y": 924,
+						"w": 42,
+						"h": 59
+					}
+				},
+				{
+					"filename": "right-leg-fill0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 252,
+						"h": 292
+					},
+					"spriteSourceSize": {
+						"x": 124,
+						"y": 211,
+						"w": 41,
+						"h": 54
+					},
+					"frame": {
+						"x": 134,
+						"y": 938,
+						"w": 41,
+						"h": 54
+					}
+				},
+				{
+					"filename": "right-leg-features0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 254,
+						"h": 297
+					},
+					"spriteSourceSize": {
+						"x": 130,
+						"y": 215,
+						"w": 42,
+						"h": 54
+					},
+					"frame": {
+						"x": 89,
+						"y": 963,
+						"w": 42,
+						"h": 54
+					}
+				},
+				{
+					"filename": "right-leg-fill0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 254,
+						"h": 297
+					},
+					"spriteSourceSize": {
+						"x": 130,
+						"y": 216,
+						"w": 42,
+						"h": 53
+					},
+					"frame": {
+						"x": 45,
+						"y": 990,
+						"w": 42,
+						"h": 53
+					}
+				},
+				{
+					"filename": "right-leg-fill0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 298
+					},
+					"spriteSourceSize": {
+						"x": 124,
+						"y": 208,
+						"w": 40,
+						"h": 53
+					},
+					"frame": {
+						"x": 1,
+						"y": 1028,
+						"w": 40,
+						"h": 53
+					}
+				},
+				{
+					"filename": "right-leg-features0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 295
+					},
+					"spriteSourceSize": {
+						"x": 118,
+						"y": 212,
+						"w": 38,
+						"h": 55
+					},
+					"frame": {
+						"x": 43,
+						"y": 1045,
+						"w": 38,
+						"h": 55
+					}
+				},
+				{
+					"filename": "right-leg-fill0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 254,
+						"h": 298
+					},
+					"spriteSourceSize": {
+						"x": 132,
+						"y": 210,
+						"w": 39,
+						"h": 54
+					},
+					"frame": {
+						"x": 83,
+						"y": 1045,
+						"w": 39,
+						"h": 54
+					}
+				},
+				{
+					"filename": "right-leg-fill0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 299
+					},
+					"spriteSourceSize": {
+						"x": 126,
+						"y": 206,
+						"w": 39,
+						"h": 54
+					},
+					"frame": {
+						"x": 177,
+						"y": 985,
+						"w": 39,
+						"h": 54
+					}
+				},
+				{
+					"filename": "right-leg-fill0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 295
+					},
+					"spriteSourceSize": {
+						"x": 122,
+						"y": 213,
+						"w": 38,
+						"h": 54
+					},
+					"frame": {
+						"x": 133,
+						"y": 994,
+						"w": 38,
+						"h": 54
+					}
+				},
+				{
+					"filename": "right-leg-fill0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 295
+					},
+					"spriteSourceSize": {
+						"x": 118,
+						"y": 213,
+						"w": 38,
+						"h": 54
+					},
+					"frame": {
+						"x": 124,
+						"y": 1050,
+						"w": 38,
+						"h": 54
+					}
+				},
+				{
+					"filename": "right-leg-fill0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 252,
+						"h": 297
+					},
+					"spriteSourceSize": {
+						"x": 125,
+						"y": 214,
+						"w": 38,
+						"h": 54
+					},
+					"frame": {
+						"x": 164,
+						"y": 1050,
+						"w": 38,
+						"h": 54
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:55eea7dfaa8f438259a5a2f55d4dd295:c845de6b1b1db0a083cdcddb79d7e45d:3e68b4eb36763888d21e80085fc2f704$"
+	}
+}

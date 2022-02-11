@@ -1,0 +1,608 @@
+{
+	"textures": [
+		{
+			"image": "5001.1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 512,
+				"h": 62
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "left-eyebrow-fill0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 255,
+						"h": 303
+					},
+					"spriteSourceSize": {
+						"x": 80,
+						"y": 93,
+						"w": 56,
+						"h": 17
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 56,
+						"h": 17
+					}
+				},
+				{
+					"filename": "left-eyebrow-fill0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 252,
+						"h": 288
+					},
+					"spriteSourceSize": {
+						"x": 72,
+						"y": 97,
+						"w": 55,
+						"h": 19
+					},
+					"frame": {
+						"x": 59,
+						"y": 1,
+						"w": 55,
+						"h": 19
+					}
+				},
+				{
+					"filename": "left-eyebrow-fill0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 252,
+						"h": 288
+					},
+					"spriteSourceSize": {
+						"x": 72,
+						"y": 97,
+						"w": 55,
+						"h": 19
+					},
+					"frame": {
+						"x": 59,
+						"y": 1,
+						"w": 55,
+						"h": 19
+					}
+				},
+				{
+					"filename": "left-eyebrow-fill0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 254,
+						"h": 298
+					},
+					"spriteSourceSize": {
+						"x": 67,
+						"y": 96,
+						"w": 54,
+						"h": 20
+					},
+					"frame": {
+						"x": 1,
+						"y": 20,
+						"w": 54,
+						"h": 20
+					}
+				},
+				{
+					"filename": "left-eyebrow-fill0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 293
+					},
+					"spriteSourceSize": {
+						"x": 69,
+						"y": 97,
+						"w": 55,
+						"h": 19
+					},
+					"frame": {
+						"x": 116,
+						"y": 1,
+						"w": 55,
+						"h": 19
+					}
+				},
+				{
+					"filename": "right-eyebrow-fill0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 252,
+						"h": 288
+					},
+					"spriteSourceSize": {
+						"x": 127,
+						"y": 97,
+						"w": 55,
+						"h": 19
+					},
+					"frame": {
+						"x": 173,
+						"y": 1,
+						"w": 55,
+						"h": 19
+					}
+				},
+				{
+					"filename": "right-eyebrow-fill0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 252,
+						"h": 288
+					},
+					"spriteSourceSize": {
+						"x": 127,
+						"y": 97,
+						"w": 55,
+						"h": 19
+					},
+					"frame": {
+						"x": 173,
+						"y": 1,
+						"w": 55,
+						"h": 19
+					}
+				},
+				{
+					"filename": "left-eyebrow-fill0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 292
+					},
+					"spriteSourceSize": {
+						"x": 70,
+						"y": 98,
+						"w": 55,
+						"h": 18
+					},
+					"frame": {
+						"x": 230,
+						"y": 1,
+						"w": 55,
+						"h": 18
+					}
+				},
+				{
+					"filename": "left-eyebrow-fill0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 293
+					},
+					"spriteSourceSize": {
+						"x": 75,
+						"y": 96,
+						"w": 55,
+						"h": 18
+					},
+					"frame": {
+						"x": 287,
+						"y": 1,
+						"w": 55,
+						"h": 18
+					}
+				},
+				{
+					"filename": "left-eyebrow-fill0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 254,
+						"h": 296
+					},
+					"spriteSourceSize": {
+						"x": 76,
+						"y": 95,
+						"w": 55,
+						"h": 18
+					},
+					"frame": {
+						"x": 344,
+						"y": 1,
+						"w": 55,
+						"h": 18
+					}
+				},
+				{
+					"filename": "right-eyebrow-fill0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 293
+					},
+					"spriteSourceSize": {
+						"x": 124,
+						"y": 96,
+						"w": 55,
+						"h": 18
+					},
+					"frame": {
+						"x": 401,
+						"y": 1,
+						"w": 55,
+						"h": 18
+					}
+				},
+				{
+					"filename": "left-eyebrow-fill0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 255,
+						"h": 303
+					},
+					"spriteSourceSize": {
+						"x": 65,
+						"y": 96,
+						"w": 53,
+						"h": 20
+					},
+					"frame": {
+						"x": 458,
+						"y": 1,
+						"w": 53,
+						"h": 20
+					}
+				},
+				{
+					"filename": "right-eyebrow-fill0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 254,
+						"h": 298
+					},
+					"spriteSourceSize": {
+						"x": 121,
+						"y": 94,
+						"w": 55,
+						"h": 18
+					},
+					"frame": {
+						"x": 230,
+						"y": 21,
+						"w": 55,
+						"h": 18
+					}
+				},
+				{
+					"filename": "right-eyebrow-fill0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 296
+					},
+					"spriteSourceSize": {
+						"x": 123,
+						"y": 95,
+						"w": 55,
+						"h": 18
+					},
+					"frame": {
+						"x": 287,
+						"y": 21,
+						"w": 55,
+						"h": 18
+					}
+				},
+				{
+					"filename": "left-eyebrow-fill0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 254,
+						"h": 298
+					},
+					"spriteSourceSize": {
+						"x": 78,
+						"y": 95,
+						"w": 55,
+						"h": 17
+					},
+					"frame": {
+						"x": 344,
+						"y": 21,
+						"w": 55,
+						"h": 17
+					}
+				},
+				{
+					"filename": "left-eyebrow-fill0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 254,
+						"h": 299
+					},
+					"spriteSourceSize": {
+						"x": 66,
+						"y": 96,
+						"w": 54,
+						"h": 20
+					},
+					"frame": {
+						"x": 401,
+						"y": 21,
+						"w": 54,
+						"h": 20
+					}
+				},
+				{
+					"filename": "right-eyebrow-fill0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 254,
+						"h": 298
+					},
+					"spriteSourceSize": {
+						"x": 133,
+						"y": 96,
+						"w": 54,
+						"h": 20
+					},
+					"frame": {
+						"x": 344,
+						"y": 40,
+						"w": 54,
+						"h": 20
+					}
+				},
+				{
+					"filename": "right-eyebrow-fill0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 255,
+						"h": 303
+					},
+					"spriteSourceSize": {
+						"x": 136,
+						"y": 96,
+						"w": 54,
+						"h": 20
+					},
+					"frame": {
+						"x": 457,
+						"y": 23,
+						"w": 54,
+						"h": 20
+					}
+				},
+				{
+					"filename": "left-eyebrow-fill0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 254,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 78,
+						"y": 94,
+						"w": 55,
+						"h": 17
+					},
+					"frame": {
+						"x": 400,
+						"y": 43,
+						"w": 55,
+						"h": 17
+					}
+				},
+				{
+					"filename": "right-eyebrow-fill0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 292
+					},
+					"spriteSourceSize": {
+						"x": 125,
+						"y": 97,
+						"w": 55,
+						"h": 17
+					},
+					"frame": {
+						"x": 57,
+						"y": 22,
+						"w": 55,
+						"h": 17
+					}
+				},
+				{
+					"filename": "right-eyebrow-fill0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 255,
+						"h": 303
+					},
+					"spriteSourceSize": {
+						"x": 119,
+						"y": 93,
+						"w": 55,
+						"h": 17
+					},
+					"frame": {
+						"x": 114,
+						"y": 22,
+						"w": 55,
+						"h": 17
+					}
+				},
+				{
+					"filename": "left-eyebrow-fill0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 296
+					},
+					"spriteSourceSize": {
+						"x": 69,
+						"y": 97,
+						"w": 54,
+						"h": 19
+					},
+					"frame": {
+						"x": 171,
+						"y": 22,
+						"w": 54,
+						"h": 19
+					}
+				},
+				{
+					"filename": "right-eyebrow-fill0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 254,
+						"h": 299
+					},
+					"spriteSourceSize": {
+						"x": 121,
+						"y": 94,
+						"w": 55,
+						"h": 17
+					},
+					"frame": {
+						"x": 57,
+						"y": 41,
+						"w": 55,
+						"h": 17
+					}
+				},
+				{
+					"filename": "right-eyebrow-fill0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 293
+					},
+					"spriteSourceSize": {
+						"x": 130,
+						"y": 97,
+						"w": 54,
+						"h": 19
+					},
+					"frame": {
+						"x": 1,
+						"y": 42,
+						"w": 54,
+						"h": 19
+					}
+				},
+				{
+					"filename": "right-eyebrow-fill0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 254,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 134,
+						"y": 97,
+						"w": 54,
+						"h": 19
+					},
+					"frame": {
+						"x": 114,
+						"y": 41,
+						"w": 54,
+						"h": 19
+					}
+				},
+				{
+					"filename": "right-eyebrow-fill0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 254,
+						"h": 296
+					},
+					"spriteSourceSize": {
+						"x": 132,
+						"y": 98,
+						"w": 54,
+						"h": 19
+					},
+					"frame": {
+						"x": 227,
+						"y": 41,
+						"w": 54,
+						"h": 19
+					}
+				},
+				{
+					"filename": "left-eyebrow-fill0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 292
+					},
+					"spriteSourceSize": {
+						"x": 75,
+						"y": 97,
+						"w": 54,
+						"h": 17
+					},
+					"frame": {
+						"x": 170,
+						"y": 43,
+						"w": 54,
+						"h": 17
+					}
+				},
+				{
+					"filename": "right-eyebrow-fill0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 292
+					},
+					"spriteSourceSize": {
+						"x": 130,
+						"y": 98,
+						"w": 54,
+						"h": 19
+					},
+					"frame": {
+						"x": 283,
+						"y": 41,
+						"w": 54,
+						"h": 19
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:d8d77f6d87c522123ae4deb620da3551:281407e12dfcfc7194633013c45c969d:c3825e2a7e54c4861f410f1942165c2b$"
+	}
+}

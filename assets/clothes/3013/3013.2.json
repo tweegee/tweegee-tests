@@ -1,0 +1,1196 @@
+{
+	"textures": [
+		{
+			"image": "3013.2.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 963,
+				"h": 1464
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "hairstyle-back-features0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 60,
+						"y": 146,
+						"w": 132,
+						"h": 40
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 132,
+						"h": 40
+					}
+				},
+				{
+					"filename": "hairstyle-back-features0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 254,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 59,
+						"y": 148,
+						"w": 133,
+						"h": 40
+					},
+					"frame": {
+						"x": 135,
+						"y": 1,
+						"w": 133,
+						"h": 40
+					}
+				},
+				{
+					"filename": "hairstyle-back-features0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 254,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 61,
+						"y": 150,
+						"w": 132,
+						"h": 41
+					},
+					"frame": {
+						"x": 270,
+						"y": 1,
+						"w": 132,
+						"h": 41
+					}
+				},
+				{
+					"filename": "hairstyle-back-features0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 311
+					},
+					"spriteSourceSize": {
+						"x": 62,
+						"y": 148,
+						"w": 132,
+						"h": 41
+					},
+					"frame": {
+						"x": 404,
+						"y": 1,
+						"w": 132,
+						"h": 41
+					}
+				},
+				{
+					"filename": "hairstyle-back-features0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 310
+					},
+					"spriteSourceSize": {
+						"x": 62,
+						"y": 144,
+						"w": 133,
+						"h": 41
+					},
+					"frame": {
+						"x": 538,
+						"y": 1,
+						"w": 133,
+						"h": 41
+					}
+				},
+				{
+					"filename": "hairstyle-back-features0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 252,
+						"h": 313
+					},
+					"spriteSourceSize": {
+						"x": 63,
+						"y": 141,
+						"w": 133,
+						"h": 41
+					},
+					"frame": {
+						"x": 673,
+						"y": 1,
+						"w": 133,
+						"h": 41
+					}
+				},
+				{
+					"filename": "hairstyle-back-features0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 252,
+						"h": 317
+					},
+					"spriteSourceSize": {
+						"x": 64,
+						"y": 139,
+						"w": 133,
+						"h": 41
+					},
+					"frame": {
+						"x": 808,
+						"y": 1,
+						"w": 133,
+						"h": 41
+					}
+				},
+				{
+					"filename": "hairstyle-back-features0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 316
+					},
+					"spriteSourceSize": {
+						"x": 65,
+						"y": 140,
+						"w": 132,
+						"h": 41
+					},
+					"frame": {
+						"x": 1,
+						"y": 43,
+						"w": 132,
+						"h": 41
+					}
+				},
+				{
+					"filename": "hairstyle-back-features0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 314
+					},
+					"spriteSourceSize": {
+						"x": 66,
+						"y": 142,
+						"w": 132,
+						"h": 41
+					},
+					"frame": {
+						"x": 135,
+						"y": 43,
+						"w": 132,
+						"h": 41
+					}
+				},
+				{
+					"filename": "hairstyle-back-features0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 314
+					},
+					"spriteSourceSize": {
+						"x": 62,
+						"y": 146,
+						"w": 133,
+						"h": 41
+					},
+					"frame": {
+						"x": 269,
+						"y": 44,
+						"w": 133,
+						"h": 41
+					}
+				},
+				{
+					"filename": "hairstyle-back-features0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 254,
+						"h": 322
+					},
+					"spriteSourceSize": {
+						"x": 57,
+						"y": 145,
+						"w": 133,
+						"h": 41
+					},
+					"frame": {
+						"x": 404,
+						"y": 44,
+						"w": 133,
+						"h": 41
+					}
+				},
+				{
+					"filename": "hairstyle-back-features0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 254,
+						"h": 320
+					},
+					"spriteSourceSize": {
+						"x": 58,
+						"y": 146,
+						"w": 133,
+						"h": 41
+					},
+					"frame": {
+						"x": 539,
+						"y": 44,
+						"w": 133,
+						"h": 41
+					}
+				},
+				{
+					"filename": "hairstyle-back-features0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 316
+					},
+					"spriteSourceSize": {
+						"x": 67,
+						"y": 145,
+						"w": 132,
+						"h": 42
+					},
+					"frame": {
+						"x": 674,
+						"y": 44,
+						"w": 132,
+						"h": 42
+					}
+				},
+				{
+					"filename": "hairstyle-back-features0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 252,
+						"h": 310
+					},
+					"spriteSourceSize": {
+						"x": 64,
+						"y": 146,
+						"w": 133,
+						"h": 42
+					},
+					"frame": {
+						"x": 808,
+						"y": 44,
+						"w": 133,
+						"h": 42
+					}
+				},
+				{
+					"filename": "hairstyle-features0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 286,
+						"h": 331
+					},
+					"spriteSourceSize": {
+						"x": 67,
+						"y": 39,
+						"w": 174,
+						"h": 125
+					},
+					"frame": {
+						"x": 1,
+						"y": 86,
+						"w": 174,
+						"h": 125
+					}
+				},
+				{
+					"filename": "hairstyle-features0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 284,
+						"h": 328
+					},
+					"spriteSourceSize": {
+						"x": 63,
+						"y": 33,
+						"w": 173,
+						"h": 126
+					},
+					"frame": {
+						"x": 177,
+						"y": 87,
+						"w": 173,
+						"h": 126
+					}
+				},
+				{
+					"filename": "hairstyle-features0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 285,
+						"h": 332
+					},
+					"spriteSourceSize": {
+						"x": 65,
+						"y": 31,
+						"w": 172,
+						"h": 126
+					},
+					"frame": {
+						"x": 352,
+						"y": 87,
+						"w": 172,
+						"h": 126
+					}
+				},
+				{
+					"filename": "hairstyle-features0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 287,
+						"h": 331
+					},
+					"spriteSourceSize": {
+						"x": 65,
+						"y": 33,
+						"w": 174,
+						"h": 126
+					},
+					"frame": {
+						"x": 526,
+						"y": 88,
+						"w": 174,
+						"h": 126
+					}
+				},
+				{
+					"filename": "hairstyle-features0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 286,
+						"h": 329
+					},
+					"spriteSourceSize": {
+						"x": 66,
+						"y": 35,
+						"w": 174,
+						"h": 126
+					},
+					"frame": {
+						"x": 702,
+						"y": 88,
+						"w": 174,
+						"h": 126
+					}
+				},
+				{
+					"filename": "hairstyle-features0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 284,
+						"h": 325
+					},
+					"spriteSourceSize": {
+						"x": 64,
+						"y": 38,
+						"w": 173,
+						"h": 127
+					},
+					"frame": {
+						"x": 1,
+						"y": 213,
+						"w": 173,
+						"h": 127
+					}
+				},
+				{
+					"filename": "hairstyle-features0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 286,
+						"h": 326
+					},
+					"spriteSourceSize": {
+						"x": 63,
+						"y": 35,
+						"w": 172,
+						"h": 128
+					},
+					"frame": {
+						"x": 176,
+						"y": 215,
+						"w": 172,
+						"h": 128
+					}
+				},
+				{
+					"filename": "hairstyle-features0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 286,
+						"h": 329
+					},
+					"spriteSourceSize": {
+						"x": 62,
+						"y": 37,
+						"w": 173,
+						"h": 128
+					},
+					"frame": {
+						"x": 350,
+						"y": 215,
+						"w": 173,
+						"h": 128
+					}
+				},
+				{
+					"filename": "hairstyle-features0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 334
+					},
+					"spriteSourceSize": {
+						"x": 60,
+						"y": 37,
+						"w": 172,
+						"h": 128
+					},
+					"frame": {
+						"x": 525,
+						"y": 216,
+						"w": 172,
+						"h": 128
+					}
+				},
+				{
+					"filename": "hairstyle-features0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 290,
+						"h": 334
+					},
+					"spriteSourceSize": {
+						"x": 62,
+						"y": 41,
+						"w": 171,
+						"h": 129
+					},
+					"frame": {
+						"x": 699,
+						"y": 216,
+						"w": 171,
+						"h": 129
+					}
+				},
+				{
+					"filename": "hairstyle-features0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 326
+					},
+					"spriteSourceSize": {
+						"x": 63,
+						"y": 39,
+						"w": 171,
+						"h": 129
+					},
+					"frame": {
+						"x": 1,
+						"y": 342,
+						"w": 171,
+						"h": 129
+					}
+				},
+				{
+					"filename": "hairstyle-features0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 290,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 59,
+						"y": 36,
+						"w": 171,
+						"h": 129
+					},
+					"frame": {
+						"x": 174,
+						"y": 345,
+						"w": 171,
+						"h": 129
+					}
+				},
+				{
+					"filename": "hairstyle-features0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 290,
+						"h": 336
+					},
+					"spriteSourceSize": {
+						"x": 60,
+						"y": 37,
+						"w": 171,
+						"h": 129
+					},
+					"frame": {
+						"x": 347,
+						"y": 345,
+						"w": 171,
+						"h": 129
+					}
+				},
+				{
+					"filename": "hairstyle-features0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 290,
+						"h": 334
+					},
+					"spriteSourceSize": {
+						"x": 61,
+						"y": 39,
+						"w": 171,
+						"h": 129
+					},
+					"frame": {
+						"x": 520,
+						"y": 346,
+						"w": 171,
+						"h": 129
+					}
+				},
+				{
+					"filename": "hairstyle-fill0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 284,
+						"h": 328
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 14,
+						"w": 237,
+						"h": 139
+					},
+					"frame": {
+						"x": 693,
+						"y": 347,
+						"w": 237,
+						"h": 139
+					}
+				},
+				{
+					"filename": "hairstyle-fill0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 285,
+						"h": 332
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 12,
+						"w": 237,
+						"h": 140
+					},
+					"frame": {
+						"x": 1,
+						"y": 476,
+						"w": 237,
+						"h": 140
+					}
+				},
+				{
+					"filename": "hairstyle-fill0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 287,
+						"h": 331
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 15,
+						"w": 236,
+						"h": 140
+					},
+					"frame": {
+						"x": 240,
+						"y": 476,
+						"w": 236,
+						"h": 140
+					}
+				},
+				{
+					"filename": "hairstyle-fill0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 286,
+						"h": 329
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 16,
+						"w": 237,
+						"h": 140
+					},
+					"frame": {
+						"x": 478,
+						"y": 488,
+						"w": 237,
+						"h": 140
+					}
+				},
+				{
+					"filename": "hairstyle-fill0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 286,
+						"h": 331
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 20,
+						"w": 237,
+						"h": 140
+					},
+					"frame": {
+						"x": 717,
+						"y": 488,
+						"w": 237,
+						"h": 140
+					}
+				},
+				{
+					"filename": "hairstyle-fill0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 284,
+						"h": 325
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 19,
+						"w": 237,
+						"h": 140
+					},
+					"frame": {
+						"x": 1,
+						"y": 618,
+						"w": 237,
+						"h": 140
+					}
+				},
+				{
+					"filename": "hairstyle-fill0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 326
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 20,
+						"w": 238,
+						"h": 141
+					},
+					"frame": {
+						"x": 240,
+						"y": 630,
+						"w": 238,
+						"h": 141
+					}
+				},
+				{
+					"filename": "hairstyle-fill0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 286,
+						"h": 326
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 16,
+						"w": 238,
+						"h": 141
+					},
+					"frame": {
+						"x": 480,
+						"y": 630,
+						"w": 238,
+						"h": 141
+					}
+				},
+				{
+					"filename": "hairstyle-fill0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 286,
+						"h": 329
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 18,
+						"w": 238,
+						"h": 141
+					},
+					"frame": {
+						"x": 720,
+						"y": 630,
+						"w": 238,
+						"h": 141
+					}
+				},
+				{
+					"filename": "hairstyle-fill0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 288,
+						"h": 334
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 17,
+						"w": 238,
+						"h": 142
+					},
+					"frame": {
+						"x": 1,
+						"y": 773,
+						"w": 238,
+						"h": 142
+					}
+				},
+				{
+					"filename": "hairstyle-fill0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 290,
+						"h": 334
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 21,
+						"w": 239,
+						"h": 143
+					},
+					"frame": {
+						"x": 241,
+						"y": 773,
+						"w": 239,
+						"h": 143
+					}
+				},
+				{
+					"filename": "hairstyle-fill0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 290,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 16,
+						"w": 238,
+						"h": 143
+					},
+					"frame": {
+						"x": 482,
+						"y": 773,
+						"w": 238,
+						"h": 143
+					}
+				},
+				{
+					"filename": "hairstyle-fill0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 290,
+						"h": 336
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 17,
+						"w": 238,
+						"h": 143
+					},
+					"frame": {
+						"x": 722,
+						"y": 773,
+						"w": 238,
+						"h": 143
+					}
+				},
+				{
+					"filename": "hairstyle-fill0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 290,
+						"h": 334
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 19,
+						"w": 238,
+						"h": 143
+					},
+					"frame": {
+						"x": 1,
+						"y": 917,
+						"w": 238,
+						"h": 143
+					}
+				},
+				{
+					"filename": "hairstyle-back-fill0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 254,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 28,
+						"w": 179,
+						"h": 180
+					},
+					"frame": {
+						"x": 241,
+						"y": 918,
+						"w": 179,
+						"h": 180
+					}
+				},
+				{
+					"filename": "hairstyle-back-fill0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 310
+					},
+					"spriteSourceSize": {
+						"x": 37,
+						"y": 24,
+						"w": 179,
+						"h": 180
+					},
+					"frame": {
+						"x": 422,
+						"y": 918,
+						"w": 179,
+						"h": 180
+					}
+				},
+				{
+					"filename": "hairstyle-back-fill0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 252,
+						"h": 317
+					},
+					"spriteSourceSize": {
+						"x": 40,
+						"y": 20,
+						"w": 179,
+						"h": 180
+					},
+					"frame": {
+						"x": 603,
+						"y": 918,
+						"w": 179,
+						"h": 180
+					}
+				},
+				{
+					"filename": "hairstyle-back-fill0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 252,
+						"h": 310
+					},
+					"spriteSourceSize": {
+						"x": 40,
+						"y": 27,
+						"w": 178,
+						"h": 180
+					},
+					"frame": {
+						"x": 784,
+						"y": 918,
+						"w": 178,
+						"h": 180
+					}
+				},
+				{
+					"filename": "hairstyle-back-fill0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 316
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 22,
+						"w": 179,
+						"h": 180
+					},
+					"frame": {
+						"x": 1,
+						"y": 1062,
+						"w": 179,
+						"h": 180
+					}
+				},
+				{
+					"filename": "hairstyle-back-fill0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 314
+					},
+					"spriteSourceSize": {
+						"x": 42,
+						"y": 24,
+						"w": 179,
+						"h": 180
+					},
+					"frame": {
+						"x": 182,
+						"y": 1100,
+						"w": 179,
+						"h": 180
+					}
+				},
+				{
+					"filename": "hairstyle-back-fill0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 314
+					},
+					"spriteSourceSize": {
+						"x": 37,
+						"y": 26,
+						"w": 179,
+						"h": 180
+					},
+					"frame": {
+						"x": 363,
+						"y": 1100,
+						"w": 179,
+						"h": 180
+					}
+				},
+				{
+					"filename": "hairstyle-back-fill0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 25,
+						"w": 179,
+						"h": 180
+					},
+					"frame": {
+						"x": 544,
+						"y": 1100,
+						"w": 179,
+						"h": 180
+					}
+				},
+				{
+					"filename": "hairstyle-back-fill0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 254,
+						"h": 322
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 23,
+						"w": 179,
+						"h": 180
+					},
+					"frame": {
+						"x": 725,
+						"y": 1100,
+						"w": 179,
+						"h": 180
+					}
+				},
+				{
+					"filename": "hairstyle-back-fill0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 254,
+						"h": 320
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 24,
+						"w": 179,
+						"h": 180
+					},
+					"frame": {
+						"x": 1,
+						"y": 1244,
+						"w": 179,
+						"h": 180
+					}
+				},
+				{
+					"filename": "hairstyle-back-fill0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 254,
+						"h": 318
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 26,
+						"w": 179,
+						"h": 180
+					},
+					"frame": {
+						"x": 182,
+						"y": 1282,
+						"w": 179,
+						"h": 180
+					}
+				},
+				{
+					"filename": "hairstyle-back-fill0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 311
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 27,
+						"w": 178,
+						"h": 181
+					},
+					"frame": {
+						"x": 363,
+						"y": 1282,
+						"w": 178,
+						"h": 181
+					}
+				},
+				{
+					"filename": "hairstyle-back-fill0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 252,
+						"h": 313
+					},
+					"spriteSourceSize": {
+						"x": 38,
+						"y": 21,
+						"w": 179,
+						"h": 181
+					},
+					"frame": {
+						"x": 543,
+						"y": 1282,
+						"w": 179,
+						"h": 181
+					}
+				},
+				{
+					"filename": "hairstyle-back-fill0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 316
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 27,
+						"w": 179,
+						"h": 181
+					},
+					"frame": {
+						"x": 724,
+						"y": 1282,
+						"w": 179,
+						"h": 181
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:daa5f4ee3440ecdb61a3b8b4ecf1cd15:0185fbda9b7ed6bce1641d883c22a383:b1fcf23a93ea7ce9d0f0c9c8e5b9e62a$"
+	}
+}

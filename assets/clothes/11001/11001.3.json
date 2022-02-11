@@ -1,0 +1,314 @@
+{
+	"textures": [
+		{
+			"image": "11001.3.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1009,
+				"h": 121
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "glasses0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 296
+					},
+					"spriteSourceSize": {
+						"x": 45,
+						"y": 97,
+						"w": 142,
+						"h": 62
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 142,
+						"h": 62
+					}
+				},
+				{
+					"filename": "glasses0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 254,
+						"h": 302
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 98,
+						"w": 142,
+						"h": 55
+					},
+					"frame": {
+						"x": 1,
+						"y": 65,
+						"w": 142,
+						"h": 55
+					}
+				},
+				{
+					"filename": "glasses0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 295
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 91,
+						"w": 142,
+						"h": 62
+					},
+					"frame": {
+						"x": 145,
+						"y": 1,
+						"w": 142,
+						"h": 62
+					}
+				},
+				{
+					"filename": "glasses0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 254,
+						"h": 297
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 102,
+						"w": 142,
+						"h": 55
+					},
+					"frame": {
+						"x": 145,
+						"y": 65,
+						"w": 142,
+						"h": 55
+					}
+				},
+				{
+					"filename": "glasses0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 295
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 94,
+						"w": 142,
+						"h": 61
+					},
+					"frame": {
+						"x": 289,
+						"y": 1,
+						"w": 142,
+						"h": 61
+					}
+				},
+				{
+					"filename": "glasses0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 254,
+						"h": 298
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 100,
+						"w": 142,
+						"h": 56
+					},
+					"frame": {
+						"x": 289,
+						"y": 64,
+						"w": 142,
+						"h": 56
+					}
+				},
+				{
+					"filename": "glasses0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 252,
+						"h": 297
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 90,
+						"w": 142,
+						"h": 61
+					},
+					"frame": {
+						"x": 433,
+						"y": 1,
+						"w": 142,
+						"h": 61
+					}
+				},
+				{
+					"filename": "glasses0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 299
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 98,
+						"w": 142,
+						"h": 56
+					},
+					"frame": {
+						"x": 433,
+						"y": 64,
+						"w": 142,
+						"h": 56
+					}
+				},
+				{
+					"filename": "glasses0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 252,
+						"h": 290
+					},
+					"spriteSourceSize": {
+						"x": 42,
+						"y": 99,
+						"w": 142,
+						"h": 59
+					},
+					"frame": {
+						"x": 577,
+						"y": 1,
+						"w": 142,
+						"h": 59
+					}
+				},
+				{
+					"filename": "glasses0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 298
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 97,
+						"w": 143,
+						"h": 58
+					},
+					"frame": {
+						"x": 577,
+						"y": 62,
+						"w": 143,
+						"h": 58
+					}
+				},
+				{
+					"filename": "glasses0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 252,
+						"h": 292
+					},
+					"spriteSourceSize": {
+						"x": 40,
+						"y": 92,
+						"w": 142,
+						"h": 59
+					},
+					"frame": {
+						"x": 721,
+						"y": 1,
+						"w": 142,
+						"h": 59
+					}
+				},
+				{
+					"filename": "glasses0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 252,
+						"h": 294
+					},
+					"spriteSourceSize": {
+						"x": 38,
+						"y": 98,
+						"w": 142,
+						"h": 58
+					},
+					"frame": {
+						"x": 722,
+						"y": 62,
+						"w": 142,
+						"h": 58
+					}
+				},
+				{
+					"filename": "glasses0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 290
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 96,
+						"w": 142,
+						"h": 58
+					},
+					"frame": {
+						"x": 866,
+						"y": 1,
+						"w": 142,
+						"h": 58
+					}
+				},
+				{
+					"filename": "glasses0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 290
+					},
+					"spriteSourceSize": {
+						"x": 38,
+						"y": 100,
+						"w": 142,
+						"h": 57
+					},
+					"frame": {
+						"x": 866,
+						"y": 61,
+						"w": 142,
+						"h": 57
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:24d94c15bf07ac0c7dad1a05254fbfe0:71371c86f42ebf7d7fb1ef88ed79db8f:74d21a488a4d168cb7d70ee147d7c4d9$"
+	}
+}

@@ -1,0 +1,314 @@
+{
+	"textures": [
+		{
+			"image": "12001.2.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 197,
+				"h": 237
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "neck-item0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 290
+					},
+					"spriteSourceSize": {
+						"x": 109,
+						"y": 169,
+						"w": 38,
+						"h": 77
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 38,
+						"h": 77
+					}
+				},
+				{
+					"filename": "neck-item0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 290
+					},
+					"spriteSourceSize": {
+						"x": 109,
+						"y": 166,
+						"w": 38,
+						"h": 77
+					},
+					"frame": {
+						"x": 1,
+						"y": 80,
+						"w": 38,
+						"h": 77
+					}
+				},
+				{
+					"filename": "neck-item0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 295
+					},
+					"spriteSourceSize": {
+						"x": 110,
+						"y": 164,
+						"w": 38,
+						"h": 77
+					},
+					"frame": {
+						"x": 1,
+						"y": 159,
+						"w": 38,
+						"h": 77
+					}
+				},
+				{
+					"filename": "neck-item0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 254,
+						"h": 302
+					},
+					"spriteSourceSize": {
+						"x": 108,
+						"y": 167,
+						"w": 38,
+						"h": 77
+					},
+					"frame": {
+						"x": 41,
+						"y": 1,
+						"w": 38,
+						"h": 77
+					}
+				},
+				{
+					"filename": "neck-item0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 254,
+						"h": 298
+					},
+					"spriteSourceSize": {
+						"x": 109,
+						"y": 169,
+						"w": 38,
+						"h": 77
+					},
+					"frame": {
+						"x": 41,
+						"y": 80,
+						"w": 38,
+						"h": 77
+					}
+				},
+				{
+					"filename": "neck-item0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 254,
+						"h": 297
+					},
+					"spriteSourceSize": {
+						"x": 110,
+						"y": 170,
+						"w": 37,
+						"h": 77
+					},
+					"frame": {
+						"x": 41,
+						"y": 159,
+						"w": 37,
+						"h": 77
+					}
+				},
+				{
+					"filename": "neck-item0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 252,
+						"h": 293
+					},
+					"spriteSourceSize": {
+						"x": 110,
+						"y": 164,
+						"w": 37,
+						"h": 77
+					},
+					"frame": {
+						"x": 80,
+						"y": 159,
+						"w": 37,
+						"h": 77
+					}
+				},
+				{
+					"filename": "neck-item0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 293
+					},
+					"spriteSourceSize": {
+						"x": 112,
+						"y": 166,
+						"w": 37,
+						"h": 77
+					},
+					"frame": {
+						"x": 81,
+						"y": 1,
+						"w": 37,
+						"h": 77
+					}
+				},
+				{
+					"filename": "neck-item0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 295
+					},
+					"spriteSourceSize": {
+						"x": 113,
+						"y": 169,
+						"w": 37,
+						"h": 77
+					},
+					"frame": {
+						"x": 81,
+						"y": 80,
+						"w": 37,
+						"h": 77
+					}
+				},
+				{
+					"filename": "neck-item0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 252,
+						"h": 290
+					},
+					"spriteSourceSize": {
+						"x": 111,
+						"y": 169,
+						"w": 37,
+						"h": 77
+					},
+					"frame": {
+						"x": 119,
+						"y": 159,
+						"w": 37,
+						"h": 77
+					}
+				},
+				{
+					"filename": "neck-item0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 298
+					},
+					"spriteSourceSize": {
+						"x": 109,
+						"y": 168,
+						"w": 38,
+						"h": 76
+					},
+					"frame": {
+						"x": 158,
+						"y": 1,
+						"w": 38,
+						"h": 76
+					}
+				},
+				{
+					"filename": "neck-item0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 253,
+						"h": 293
+					},
+					"spriteSourceSize": {
+						"x": 110,
+						"y": 168,
+						"w": 37,
+						"h": 77
+					},
+					"frame": {
+						"x": 120,
+						"y": 79,
+						"w": 37,
+						"h": 77
+					}
+				},
+				{
+					"filename": "neck-item0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 254,
+						"h": 299
+					},
+					"spriteSourceSize": {
+						"x": 109,
+						"y": 167,
+						"w": 37,
+						"h": 77
+					},
+					"frame": {
+						"x": 158,
+						"y": 158,
+						"w": 37,
+						"h": 77
+					}
+				},
+				{
+					"filename": "neck-item0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 252,
+						"h": 297
+					},
+					"spriteSourceSize": {
+						"x": 110,
+						"y": 164,
+						"w": 37,
+						"h": 76
+					},
+					"frame": {
+						"x": 159,
+						"y": 79,
+						"w": 37,
+						"h": 76
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:c96062b1cfab942b00ce61a5d24eb080:386b5eb7e031c2ebb1172a79adea8cc0:f7942d2b47f781734901003fed96b897$"
+	}
+}
