@@ -76,6 +76,7 @@ class Level extends Phaser.Scene {
 				avatar.fill(entry[0], Math.floor(Math.random() * 0xff_ff_ff));
 			}
 			avatar.play(Object.keys(Animations).random());
+			avatar.scale = 0.5;
 			this.avatarCount++;
 			this.textAvatars.setText('Avatars: ' + this.avatarCount);
 			cont.add(avatar);
