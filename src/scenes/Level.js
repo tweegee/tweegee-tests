@@ -9,15 +9,25 @@ class Level extends Phaser.Scene {
 		super("Level");
 
 		/* START-USER-CTR-CODE */
-		window.level = this;
+		this.avatarCount = 0;
 		/* END-USER-CTR-CODE */
 	}
 
 	/** @returns {void} */
 	editorCreate() {
 
+		// textAvatars
+		const textAvatars = this.add.text(0, 0, "", {});
+		textAvatars.text = "Avatars: ";
+		textAvatars.setStyle({ "fontFamily": "Arial" });
+
+		this.textAvatars = textAvatars;
+
 		this.events.emit("scene-awake");
 	}
+
+	/** @type {Phaser.GameObjects.Text} */
+	textAvatars;
 
 	/* START-USER-CODE */
 
@@ -66,6 +76,8 @@ class Level extends Phaser.Scene {
 				avatar.fill(entry[0], Math.floor(Math.random() * 0xff_ff_ff));
 			}
 			avatar.play(Object.keys(Animations).random());
+			this.avatarCount++;
+			this.textAvatars.setText('Avatars: ' + this.avatarCount);
 			cont.add(avatar);
 		});
 		window.cont = cont;

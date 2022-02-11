@@ -6,7 +6,17 @@
         "createMethodName": "editorCreate",
         "sceneKey": "Level"
     },
-    "displayList": [],
+    "displayList": [
+        {
+            "type": "Text",
+            "id": "b2166b28-2207-404e-87f2-ca359b5e813a",
+            "label": "textAvatars",
+            "scope": "CLASS",
+            "components": [],
+            "text": "Avatars: ",
+            "fontFamily": "Arial"
+        }
+    ],
     "plainObjects": [],
     "meta": {
         "app": "Phaser Editor 2D - Scene Editor",
