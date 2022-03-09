@@ -1,0 +1,603 @@
+{
+    "anims": [
+        {
+            "key": "dialog",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "dialog",
+                    "frame": "dialog0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dialog",
+                    "frame": "dialog0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dialog",
+                    "frame": "dialog0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dialog",
+                    "frame": "dialog0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dialog",
+                    "frame": "dialog0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dialog",
+                    "frame": "dialog0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dialog",
+                    "frame": "dialog0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dialog",
+                    "frame": "dialog0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dialog",
+                    "frame": "dialog0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dialog",
+                    "frame": "dialog0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dialog",
+                    "frame": "dialog0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dialog",
+                    "frame": "dialog0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dialog",
+                    "frame": "dialog0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dialog",
+                    "frame": "dialog0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dialog",
+                    "frame": "dialog0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dialog",
+                    "frame": "dialog0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dialog",
+                    "frame": "dialog0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dialog",
+                    "frame": "dialog0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dialog",
+                    "frame": "dialog0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dialog",
+                    "frame": "dialog0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dialog",
+                    "frame": "dialog0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dialog",
+                    "frame": "dialog0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dialog",
+                    "frame": "dialog0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dialog",
+                    "frame": "dialog0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dialog",
+                    "frame": "dialog0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dialog",
+                    "frame": "dialog0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dialog",
+                    "frame": "dialog0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dialog",
+                    "frame": "dialog0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dialog",
+                    "frame": "dialog0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dialog",
+                    "frame": "dialog0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dialog",
+                    "frame": "dialog0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dialog",
+                    "frame": "dialog0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dialog",
+                    "frame": "dialog0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dialog",
+                    "frame": "dialog0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dialog",
+                    "frame": "dialog0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dialog",
+                    "frame": "dialog0036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dialog",
+                    "frame": "dialog0037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dialog",
+                    "frame": "dialog0038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dialog",
+                    "frame": "dialog0039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dialog",
+                    "frame": "dialog0040",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dialog",
+                    "frame": "dialog0041",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dialog",
+                    "frame": "dialog0042",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dialog",
+                    "frame": "dialog0043",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dialog",
+                    "frame": "dialog0044",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dialog",
+                    "frame": "dialog0045",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 30,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "dialog-close",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "dialog",
+                    "frame": "close0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dialog",
+                    "frame": "close0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dialog",
+                    "frame": "close0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dialog",
+                    "frame": "close0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dialog",
+                    "frame": "close0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dialog",
+                    "frame": "close0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dialog",
+                    "frame": "close0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dialog",
+                    "frame": "close0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dialog",
+                    "frame": "close0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dialog",
+                    "frame": "close0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dialog",
+                    "frame": "close0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dialog",
+                    "frame": "close0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dialog",
+                    "frame": "close0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dialog",
+                    "frame": "close0014",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 30,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "spinner",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "spinner",
+                    "frame": "spinner0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "spinner",
+                    "frame": "spinner0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "spinner",
+                    "frame": "spinner0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "spinner",
+                    "frame": "spinner0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "spinner",
+                    "frame": "spinner0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "spinner",
+                    "frame": "spinner0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "spinner",
+                    "frame": "spinner0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "spinner",
+                    "frame": "spinner0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "spinner",
+                    "frame": "spinner0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "spinner",
+                    "frame": "spinner0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "spinner",
+                    "frame": "spinner0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "spinner",
+                    "frame": "spinner0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "spinner",
+                    "frame": "spinner0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "spinner",
+                    "frame": "spinner0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "spinner",
+                    "frame": "spinner0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "spinner",
+                    "frame": "spinner0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "spinner",
+                    "frame": "spinner0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "spinner",
+                    "frame": "spinner0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "spinner",
+                    "frame": "spinner0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "spinner",
+                    "frame": "spinner0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "spinner",
+                    "frame": "spinner0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "spinner",
+                    "frame": "spinner0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "spinner",
+                    "frame": "spinner0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "spinner",
+                    "frame": "spinner0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "spinner",
+                    "frame": "spinner0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "spinner",
+                    "frame": "spinner0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "spinner",
+                    "frame": "spinner0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "spinner",
+                    "frame": "spinner0028",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 30,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "step-spinner",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "spinner",
+                    "frame": "step-spinner0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "spinner",
+                    "frame": "step-spinner0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "spinner",
+                    "frame": "step-spinner0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "spinner",
+                    "frame": "step-spinner0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "spinner",
+                    "frame": "step-spinner0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "spinner",
+                    "frame": "step-spinner0006",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 5,
+            "skipMissedFrames": true,
+            "repeat": -1
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

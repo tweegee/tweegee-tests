@@ -1,0 +1,60 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/images/ad-banner.png.png",
+                "type": "image",
+                "key": "ad-banner"
+            },
+            {
+                "url": "assets/animations/base.json",
+                "type": "animation",
+                "key": "base"
+            },
+            {
+                "url": "assets/images/login/button.png",
+                "type": "image",
+                "key": "button"
+            },
+            {
+                "atlasURL": "assets/atlas/ui/guest_btn.json",
+                "textureURL": "assets/atlas/ui/guest_btn.png",
+                "type": "atlas",
+                "key": "guest_btn"
+            },
+            {
+                "url": "assets/images/login/input-text.png",
+                "type": "image",
+                "key": "input-text"
+            },
+            {
+                "url": "assets/images/login/main-bg.png",
+                "type": "image",
+                "key": "main-bg"
+            },
+            {
+                "url": "assets/images/login/pane.png",
+                "type": "image",
+                "key": "pane"
+            },
+            {
+                "atlasURL": "assets/atlas/snowfall.json",
+                "textureURL": "assets/atlas/snowfall.png",
+                "type": "atlas",
+                "key": "snowfall"
+            },
+            {
+                "url": "assets/images/login/stand.png",
+                "type": "image",
+                "key": "stand"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

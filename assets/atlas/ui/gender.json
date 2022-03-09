@@ -1,0 +1,63 @@
+{
+  "frames": {
+    "boy": {
+      "frame": {
+        "x": 1,
+        "y": 1,
+        "w": 159,
+        "h": 206
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 206
+      },
+      "sourceSize": {
+        "w": 159,
+        "h": 206
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "girl": {
+      "frame": {
+        "x": 162,
+        "y": 1,
+        "w": 149,
+        "h": 193
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 149,
+        "h": 193
+      },
+      "sourceSize": {
+        "w": 149,
+        "h": 193
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "gender.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 312,
+      "h": 208
+    },
+    "scale": 1
+  }
+}

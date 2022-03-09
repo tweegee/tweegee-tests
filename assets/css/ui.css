@@ -1,0 +1,10 @@
+.T_PlainInput {
+    outline: none;
+    border: 0;
+    background: transparent;
+}
+
+.TI_Login {
+    font-family: TanseekModernProArabic;
+    font-size: 25px;
+}

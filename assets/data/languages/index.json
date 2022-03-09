@@ -1,0 +1,12 @@
+{
+	"ar": {
+		"native": "العربية",
+		"flag": "sa",
+		"rtl": true
+	},
+	"en": {
+		"native": "English",
+		"flag": "uk",
+		"rtl": false
+	}
+}

@@ -1,0 +1,54 @@
+{
+    "anims": [
+        {
+            "key": "snowfall",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "snowfall",
+                    "frame": "snowfall0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "snowfall",
+                    "frame": "snowfall0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "snowfall",
+                    "frame": "snowfall0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "snowfall",
+                    "frame": "snowfall0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "snowfall",
+                    "frame": "snowfall0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "snowfall",
+                    "frame": "snowfall0006",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 6,
+            "skipMissedFrames": true,
+            "repeat": -1
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

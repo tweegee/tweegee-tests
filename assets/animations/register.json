@@ -1,0 +1,191 @@
+{
+    "anims": [
+        {
+            "key": "board",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "board",
+                    "frame": "board0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "board",
+                    "frame": "board0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "board",
+                    "frame": "board0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "board",
+                    "frame": "board0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "board",
+                    "frame": "board0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "board",
+                    "frame": "board0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "board",
+                    "frame": "board0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "board",
+                    "frame": "board0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "board",
+                    "frame": "board0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "board",
+                    "frame": "board0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "board",
+                    "frame": "board0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "board",
+                    "frame": "board0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "board",
+                    "frame": "board0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "board",
+                    "frame": "board0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "board",
+                    "frame": "board0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "board",
+                    "frame": "board0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "board",
+                    "frame": "board0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "board",
+                    "frame": "board0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "board",
+                    "frame": "board0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "board",
+                    "frame": "board0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "board",
+                    "frame": "board0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "board",
+                    "frame": "board0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "board",
+                    "frame": "board0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "board",
+                    "frame": "board0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "board",
+                    "frame": "board0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "board",
+                    "frame": "board0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "board",
+                    "frame": "board0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "board",
+                    "frame": "board0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "board",
+                    "frame": "board0029",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

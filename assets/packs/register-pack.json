@@ -1,0 +1,40 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/images/login/beta-input.png",
+                "type": "image",
+                "key": "beta-input"
+            },
+            {
+                "atlasURL": "assets/atlas/ui/board.json",
+                "textureURL": "assets/atlas/ui/board.png",
+                "type": "atlas",
+                "key": "board"
+            },
+            {
+                "atlasURL": "assets/atlas/ui/gender.json",
+                "textureURL": "assets/atlas/ui/gender.png",
+                "type": "atlas",
+                "key": "gender"
+            },
+            {
+                "url": "assets/images/login/input-text2.png",
+                "type": "image",
+                "key": "input-text2"
+            },
+            {
+                "url": "assets/animations/register.json",
+                "type": "animation",
+                "key": "register"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}
